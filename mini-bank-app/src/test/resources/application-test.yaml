@@ -1,0 +1,2 @@
+app:
+  persist-db: false
